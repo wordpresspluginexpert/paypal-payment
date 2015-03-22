@@ -1,0 +1,602 @@
+# Copyright (C) 2015 PayPal Payment
+# This file is distributed under the same license as the PayPal Payment package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Payment 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/paypal-payment\n"
+"POT-Creation-Date: 2015-03-04 04:12:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/partials/class-paypal-payment-list.php:43
+#: admin/partials/class-paypal-payment-list.php:44
+msgid "Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:45
+msgctxt "Admin menu name"
+msgid "Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:46
+msgid "Add Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:47
+msgid "Add New Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:48
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:49
+#: admin/partials/class-paypal-payment-list.php:51
+#: admin/partials/class-paypal-payment-list.php:52
+msgid "View Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:50
+msgid "New Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:53
+msgid "Search Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:54
+msgid "No Payment List found"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:55
+msgid "No Payment List found in trash"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:56
+msgid "Parent Payment List"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:58
+msgid "This is where you can add new IPN to your store."
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:103
+msgctxt "column name"
+msgid "Transaction ID"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:104
+msgctxt "column name"
+msgid "Name / Company"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:105
+#: admin/partials/paypal-payment-general-setting.php:219
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:106
+msgid "Transaction Type"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:107
+msgid "Payment status"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:108
+msgctxt "column name"
+msgid "Date"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:196
+msgid "Payment List Fields"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:209
+#: admin/partials/class-paypal-payment-list.php:215
+msgid "IPN Field Name"
+msgstr ""
+
+#: admin/partials/class-paypal-payment-list.php:210
+#: admin/partials/class-paypal-payment-list.php:216
+msgid "IPN Field Value"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:48
+msgid "Email settings"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:48
+msgid ""
+"Set your own sender name and email address. Default WordPress values will be "
+"used if empty."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:50
+#: admin/partials/paypal-payment-general-setting.php:57
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:52
+msgid "Enable this email notification for payer"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:59
+msgid "Enable this email notification for website admin"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:64
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:73
+msgid "\"From\" Email Address"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:85
+msgid "Email subject"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:95
+msgid "Email body"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:96
+msgid ""
+"The text to appear in the Payment Email. Please read more Help section(tab) "
+"for more dynamic tag"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:113
+msgid "Some dynamic tags can be included in your email template :"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:115
+msgid "<strong>%blog_url%</strong> : will be replaced with your blog URL."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:116
+msgid "<strong>%home_url%</strong> : will be replaced with your home URL."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:117
+msgid "<strong>%blog_name%</strong> : will be replaced with your blog name."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:118
+msgid ""
+"<strong>%blog_description%</strong> : will be replaced with your blog "
+"description."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:119
+msgid "<strong>%admin_email%</strong> : will be replaced with admin email."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:120
+msgid ""
+"<strong>%date%</strong> : will be replaced with current date, as formatted "
+"in <a href=\"options-general.php\">general options</a>."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:121
+msgid ""
+"<strong>%time%</strong> : will be replaced with current time, as formatted "
+"in <a href=\"options-general.php\">general options</a>."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:122
+msgid ""
+"<strong>%txn_id%</strong> : will be replaced with PayPal payment transaction "
+"ID."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:123
+msgid ""
+"<strong>%receiver_email%</strong> : will be replaced with PayPal payment "
+"receiver email address%."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:124
+msgid ""
+"<strong>%payment_date%</strong> : will be replaced with PayPal payment date%."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:125
+msgid ""
+"<strong>%first_name%</strong> : will be replaced with PayPal payment first "
+"name%."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:126
+msgid ""
+"<strong>%last_name%</strong> : will be replaced with PayPal payment last name"
+"%."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:127
+msgid ""
+"<strong>%mc_currency%</strong> : will be replaced with PayPal payment "
+"currency like USD"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:128
+msgid ""
+"<strong>%mc_gross%</strong> : will be replaced with PayPal payment amount"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:142
+#: admin/partials/paypal-payment-general-setting.php:331
+#: admin/partials/paypal-payment-general-setting.php:548
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:156
+msgid "PayPal Account Setup"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:159
+#: admin/partials/paypal-payment-general-setting.php:162
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:165
+msgid ""
+"PayPal sandbox can be used to test payments. Sign up for a developer account "
+"<a href=\"%s\">here</a>."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:171
+msgid "PayPal Email address to receive payments"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:174
+msgid "This is the Paypal Email address where the payments will go."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:183
+msgid "Currency"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:184
+msgid "This is the currency for your visitors to make Payments or Payments in."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:195
+msgid "Optional Settings"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:198
+msgid "Button Label"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:201
+msgid "PayPal payment button label  (Optional)."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:208
+msgid "Return Page"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:210
+msgid ""
+"URL to which the donator comes to after completing the payment; for example, "
+"a URL on your site that displays a \"Thank you for your payment\"."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:222
+msgid "The default amount for a payment (Optional)."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:227
+msgid "Item Name"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:230
+msgid "The default purpose of a payment (Optional)."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:239
+msgid "Payment Button"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:242
+msgid "Select Payment Button"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:246
+msgid "Select Button."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:248
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"large\" src=\"https://www."
+"paypalobjects.com/en_AU/i/btn/btn_buynow_LG.gif\">"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:249
+msgid ""
+"<img style=\"vertical-align: middle;\" alt=\"large\" src=\"https://www."
+"paypalobjects.com/en_AU/i/btn/btn_paynow_LG.gif\">"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:250
+msgid ""
+"Custom Button ( If you select this option then pleae enter url in Custom "
+"Button textbox, Otherwise payment button will not display. )"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:255
+msgid "Custom Button"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:258
+msgid "Enter a URL to a custom payment button."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:344
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:345
+msgid "Australian Dollars"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:346
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:347
+msgid "Brazilian Real"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:348
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:349
+msgid "Canadian Dollars"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:350
+msgid "Chilean Peso"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:351
+msgid "Chinese Yuan"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:352
+msgid "Colombian Peso"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:353
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:354
+msgid "Danish Krone"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:355
+msgid "Dominican Peso"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:356
+msgid "Euros"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:357
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:358
+msgid "Croatia kuna"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:359
+msgid "Hungarian Forint"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:360
+msgid "Icelandic krona"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:361
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:362
+msgid "Indian Rupee"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:363
+msgid "Nepali Rupee"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:364
+msgid "Israeli Shekel"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:365
+msgid "Japanese Yen"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:366
+msgid "Lao Kip"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:367
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:368
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:369
+msgid "Mexican Peso"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:370
+msgid "Nigerian Naira"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:371
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:372
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:373
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:374
+msgid "Philippine Pesos"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:375
+msgid "Polish Zloty"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:376
+msgid "Pounds Sterling"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:377
+msgid "Romanian Leu"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:378
+msgid "Russian Ruble"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:379
+msgid "Singapore Dollar"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:380
+msgid "South African rand"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:381
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:382
+msgid "Swiss Franc"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:383
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:384
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:385
+msgid "Turkish Lira"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:386
+msgid "US Dollars"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:387
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:388
+msgid "Egyptian Pound"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:505
+msgid "MailChimp Integration"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:507
+msgid "Enable MailChimp"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:510
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:511
+msgid ""
+"Enter your API Key. <a target=\"_blank\" href=\"http://admin.mailchimp.com/"
+"account/api-key-popup\">Get your API key</a>"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:518
+msgid "MailChimp lists"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:519
+msgid ""
+"After you add your MailChimp API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:527
+msgid "Force MailChimp lists refresh"
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:528
+msgid ""
+"Check and 'Save changes' this if you've added a new MailChimp list and it's "
+"not showing in the list above."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:571
+msgid "Unable to load MailChimp lists, check your API Key."
+msgstr ""
+
+#: admin/partials/paypal-payment-general-setting.php:574
+msgid "You have not created any lists at MailChimp"
+msgstr ""
+
+#: admin/partials/paypal-payment-html-output.php:332
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/class-paypal-payment.php:73
+msgid "Configure"
+msgstr ""
+
+#: includes/class-paypal-payment.php:74
+msgid "Support"
+msgstr ""
+
+#: includes/class-paypal-payment.php:75
+msgid "Write a Review"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Payment"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PayPal Payment 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (PayPal Payment 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.mbjtechnolabs.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easy to use add a PayPal Payment button as a Page, Post and Widget with a "
+"shortcode"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "phpwebcreators"
+msgstr ""
